@@ -1,0 +1,17 @@
+startNewDay|01-Jan-2025
+
+hire|Bob|30
+hire|John|30
+
+setupTeam|Production Team|Bob
+setupTeam|Sales Team|John
+
+addTeamMember|Production Team|John
+
+listAllRoles|Bob
+listAllRoles|John
+
+addTeamMember|Sales Team|Bob
+listAllRoles|Bob
+
+listTeamMembers

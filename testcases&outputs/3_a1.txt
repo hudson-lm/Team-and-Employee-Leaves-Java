@@ -1,0 +1,12 @@
+startNewDay|01-Jan-2025
+
+hire|Bob|30
+hire|Carol|20
+
+applyLeave|Bob|BL|02-Jan-2025|08-Jan-2025
+applyLeave|Carol|AL|03-Jan-2025|08-Jan-2025
+applyLeave|Carol|SL|02-Mar-2025|02-Mar-2025
+
+listLeaves|Bob
+listLeaves|Carol
+listLeaves
